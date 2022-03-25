@@ -12,3 +12,4 @@ def create_dataset(npoints=1000):
     points = np.hstack((np.ones(npoints).reshape(npoints,1), points))
     labels = np.sign(points[:, 2])
     return points, labels
+
