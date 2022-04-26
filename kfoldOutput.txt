@@ -1,0 +1,70 @@
+Step size: 0.001
+
+# of steps:	5000
+Accuracy:	0.985
+For fold #2 number accuracy:
+# of steps:	5000
+Accuracy:	0.959
+For fold #3 number accuracy:
+# of steps:	5000
+Accuracy:	0.985
+For fold #4 number accuracy:
+# of steps:	5000
+Accuracy:	0.973
+For fold #5 number accuracy:
+# of steps:	5000
+Accuracy:	0.988
+
+Step size: 0.01
+
+For fold #1 number accuracy:
+# of steps:	1811
+Accuracy:	0.9825
+For fold #2 number accuracy:
+# of steps:	1389
+Accuracy:	0.9465
+For fold #3 number accuracy:
+# of steps:	1601
+Accuracy:	0.986
+For fold #4 number accuracy:
+# of steps:	1926
+Accuracy:	0.9745
+For fold #5 number accuracy:
+# of steps:	2041
+Accuracy:	0.988
+
+Step size: 0.1
+
+For fold #1 number accuracy:
+# of steps:	1755
+Accuracy:	0.971
+For fold #2 number accuracy:
+# of steps:	1579
+Accuracy:	0.9359999999999999
+For fold #3 number accuracy:
+# of steps:	2011
+Accuracy:	0.9805
+For fold #4 number accuracy:
+# of steps:	2160
+Accuracy:	0.96
+For fold #5 number accuracy:
+# of steps:	2207
+Accuracy:	0.983
+
+Step size: 0.3
+
+For fold #1 number accuracy:
+# of steps:	2007
+Accuracy:	0.9705
+For fold #2 number accuracy:
+# of steps:	1320
+Accuracy:	0.933
+For fold #3 number accuracy:
+# of steps:	2019
+Accuracy:	0.981
+For fold #4 number accuracy:
+# of steps:	1972
+Accuracy:	0.962
+For fold #5 number accuracy:
+# of steps:	2208
+Accuracy:	0.984
